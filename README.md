@@ -4,3 +4,6 @@ FreeBird is an custom IPA of twitter that aims to remove as much X branding and 
 This is done by patching files in the offical ipa with ones from pre-X versions of twitter. (you might still find refrences to X and "posts" in some places.)
 
 BHTwitter is injected in the IPA as-well so you can block the twitter ads.
+
+# What's being worked on:
+FreeBirdPatcher for jailbroken devices is being worked on and will allow you to patch the X app you downloaded from the app store. 
