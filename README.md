@@ -1,4 +1,4 @@
-## REPO ARCHIVED:
+## ARCHIVED:
 No longer being worked on currently but i may come back to it at some point and improve it. trust me.
 
 # FreeBird
