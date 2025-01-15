@@ -1,5 +1,5 @@
 ## Project Abandoned
-I no longer use Twitter so i have no intentions to make any updates. You are welcome to make your own custom IPAs as ive seen some other people do after this repo started to gain traction.
+Im no longer working on this project but a few people are continuing from where i left off. check out [NeoFreeBird](https://github.com/actuallyaridan/NeoFreeBird) :3 
 
 # FreeBird
 FreeBird is an custom IPA of twitter that aims to remove as much X branding and text as possible as well as remove unnecessary changes.
