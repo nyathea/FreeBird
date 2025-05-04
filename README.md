@@ -1,5 +1,5 @@
-## Project Abandoned
-Im no longer working on this project but a few people are continuing from where i left off. check out [NeoFreeBird](https://github.com/actuallyaridan/NeoFreeBird) :3 
+## Abandoned
+Please check out [NeoFreeBird](https://github.com/actuallyaridan/NeoFreeBird) for further updates. im actively working on the BHTwitter side of things.
 
 # FreeBird
 FreeBird is an custom IPA of twitter that aims to remove as much X branding and text as possible as well as remove unnecessary changes.
